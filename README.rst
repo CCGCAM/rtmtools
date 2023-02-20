@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+Readme doc for ToolsRTM package
 =======================================
 
 This GitHub template includes fictional Python library
